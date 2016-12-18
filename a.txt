@@ -20,3 +20,5 @@ tu byl artur
 ------------
 
 slave
+
+This is Michael's Changes
