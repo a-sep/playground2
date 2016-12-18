@@ -22,4 +22,4 @@ tu byl artur
 slave
 
 This is Michael's Changes
-Michael's Cha {artur}  nges #2
+Michael's Changes #2 , hi there
