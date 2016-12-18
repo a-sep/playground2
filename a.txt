@@ -21,5 +21,8 @@ tu byl artur
 
 slave
 
-This is Michael's Changes
-Michael's Cha {artur}  nges #2 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+1-This is Michael's Changes
+2-Michael's Cha {artur}  nges #2 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+3-Michael's Changes #2 , hi there
+
+The End
